@@ -17,5 +17,9 @@
                 "path": "./themes/Neon Dreams Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/javahollow/neon-dreams-theme.git"
     }
 }
